@@ -1,8 +1,14 @@
 # BTG Core (Bitcoin Gold Core)
 
-[![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
+Introduction
 
-BTG Core (aka Bitcoin Gold Core, BTCGPU) is the original BTG client and it builds the backbone of the network. It is based on Bitcoin Core. BTG began as a fork of Bitcoin after block height 491406 on Tue, 24 Oct 2017 01:17:35 GMT and began being mined as a separate chain at block height 491407 on Sun, 12 Nov 2017 13:34:01 GMT.
+Since 2015, founder JACK LIAO has keenly discovered the possible future Bitcoin civil war in the process of promoting Bitcoin and communicating with the global community. In order to protect Bitcoin, he began to incubate BITCOINGOLD.
+
+In June 2017, the Bitcoin-friendly fork project BITCOINGOLD was officially created: Re-realizing Satoshi Nakamoto's dream of one CPU and one vote.
+
+In 2024, with the growing price and influence of Bitcoin, BITCOINGOLD's first phase of mission to defend Bitcoin will be completed. BITCOINGOLD will merge back into the Bitcoin network in November 2024, becoming the largest Bitcoin asset and starting the second phase of its mission: to prosper Bitcoin applications.
+
+BITCOINGOLD Core (aka Bitcoin Gold Core, BTCGPU) is the original BTG client and it builds the backbone of the network. It is based on Bitcoin Core. BTG began as a fork of Bitcoin after block height 491406 on Tue, 24 Oct 2017 01:17:35 GMT and began being mined as a separate chain at block height 491407 on Sun, 12 Nov 2017 13:34:01 GMT.
 
 This project began out of the desire to create a variant of Bitcoin that is more decentralized by using an ASIC-resistant Proof of Work algorithm, removing barriers to entry for new miners around the world and reducing the concentration of power in the hands of massive-scale mining operations.
 
